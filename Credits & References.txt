@@ -1,2 +1,10 @@
 1. userInputValidate() - Code was pinched and slightly edited from user CodeMan on stackoverflow.com 
                          (First answer: http://stackoverflow.com/questions/19018294/c-to-check-if-user-input-is-a-number-not-a-character-or-a-symbol.html)
+
+
+2. KeepRunning - Code was 100% pinched from user ropez on cplusplus.com
+                 (15th reply: http://www.cplusplus.com/forum/beginner/1988/)
+
+
+3. pauseAtEnd() - Pinched from user xismn on cplusplus.com
+                  (Bottom reply: http://www.cplusplus.com/forum/beginner/103201/)
